@@ -8,14 +8,6 @@ I work remotely and like to travel a lot.
 
 ### Language and tools I work with:
 <code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>
-<code><img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dhtml&psig=AOvVaw1w9vLo_3VKJk0_S7kaEOEj&ust=1704880098751000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODA8euD0IMDFQAAAAAdAAAAABAJ width="30px"></code>
 <code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>
-<code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>
+<code><img src="https://img.freepik.com/free-psd/3d-coding_602782-324.jpg?size=626&ext=jpg&ga=GA1.2.1266520431.1704776864&semt=ais" width="30px"></code>
 
