@@ -4,3 +4,7 @@ I work remotely and like to travel a lot.
 <a href = "https://www.youtube.com/azizkkhabibullaev>
 <image src="https://img.freepik.com/free-psd/glowing-youtube-logo-realistic-3d-circle_125540-2096.jpg?size=626&ext=jpg" width="30px">
 </a>
+<br />
+
+### Language and tools I work with:
+<code><img src = "https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width (30px)></code
