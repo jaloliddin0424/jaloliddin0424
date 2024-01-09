@@ -2,7 +2,7 @@
 I make videos on youtube about software development. <br />
 I work remotely and like to travel a lot.
 <a href = "https://www.youtube.com/azizkkhabibullaev>
-<image src="https://img.freepik.com/free-psd/glowing-youtube-logo-realistic-3d-circle_125540-2096.jpg?size=626&ext=jpg" width="30px">
+<image src="https://img.freepik.com/free-psd/glowing-youtube-logo-realistic-3d-circle_125540-2096.jpg?size=626&ext=jpg" width="30px"></code>
 </a>
 <br />
 
